@@ -1,0 +1,256 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "rankup.js",
+        "sex.js",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝘾𝘼𝙍𝙆",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100088017289683"
+    ],
+    "NDH": [],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "baolixi": {
+        "cooldownTime": 1200000
+    },
+    "cave": {
+        "cooldownTime": 60
+    },
+    "cavev2": {
+        "cooldownTime": 1200000
+    },
+    "checktt": {
+        "maxColumn": 250
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardExp": 1000,
+        "rewardUsages": 100
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "lixi": {
+        "cooldownTime": 1200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "lq1": {
+        "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBKgc6dhJ7kn4cSxqVOckkGFL0h4cryxKQ"
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "teach": {
+        "APIKEY": ""
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 43200
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "sub0": {
+        "cooldownTime": 1200
+    },
+    "sub1": {
+        "cooldownTime": 60000
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "test": {
+        "cooldownTime": 60
+    },
+    "xedua": {
+        "key": "cuongngu"
+    },
+    "adminOnly": false,
+    "tikvideo2": {
+        "key": "ClkIv52I"
+    },
+    "hamster": {
+        "cooldownTime": 60
+    },
+    "tiktok": {
+        "key": "nLXuitFX"
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "fbvideo": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "lamviec": {
+        "cooldownTime": 1200
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "hoatdong": {
+        "enable": true
+    },
+    "anhvip": {
+        "cooldownTime": 1200000
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "fbdl": {
+        "API_KEY": "mzk_7DHDGE2AHTNTVRBVUEZ"
+    },
+    "fbvd": {
+        "API_KEY": "mzkVip_LawerTeam"
+    },
+    "igdlvideo": {
+        "API_KEY": "mzkFree_722124509AC10"
+    },
+    "lixi2": {
+        "cooldownTime": 1200000
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "snautica": {
+        "APIKEY": ""
+    },
+    "song": {
+        "API_KEY": "mzk_O69SOEDT68Z0D9D3XF6"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "tenngaunhien": {
+        "APIKEY": "mi451266190"
+    },
+    "fbseach": {
+        "APIKEY": "filebot"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "checknude": {
+        "maxColumn": 10
+    },
+    "daily2": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 2000000
+    },
+    "duaxev2": {
+        "key": "cuongngu"
+    },
+    "hitbut": {
+        "APIKEY": ""
+    },
+    "nganhang": {
+        "key": "DUBFREE"
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "xoso": {
+        "APIKEY": "Meew_KJwOwXforf19pG6woamNZSeRp7Yg2M"
+    },
+    "duaxe": {
+        "key": "cuongngu"
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "ảnh": {
+        "cooldownTime": 1200000
+    },
+    "tikvideo": {
+        "API_KEY": "mzk_F27EL6RMTIV1Q5C963T"
+    }
+}
